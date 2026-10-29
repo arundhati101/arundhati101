@@ -2,17 +2,14 @@
 
 ## 💫 About Me
 
-- Final-year B.Tech CS student at **KIIT Bhubaneswar** (CGPA 9.64)
+- Final-year B.Tech CS student at **KIIT Bhubaneswar**
 - I build AI/ML systems with a focus on **agentic workflows, RAG and backend infrastructure**
-- Placement Coordinator at KIIT's Training & Placement Cell
-- Summer intern at Cognizant (Quality Engineering & Assurance)
-- 650+ DSA problems solved on LeetCode and GeeksforGeeks
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arundhati-chaudhuri-22aba4216/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arundhatichaudhuri1@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arundhati_04_/)
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-1c2128?style=for-the-badge&logo=python&logoColor=6FA8DC)
@@ -62,8 +59,3 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-1c2128?style=for-the-badge&logo=kubernetes&logoColor=6C93F0)
 ![Git](https://img.shields.io/badge/-Git-1c2128?style=for-the-badge&logo=git&logoColor=F0734F)
 ![GitHub](https://img.shields.io/badge/-GitHub-1c2128?style=for-the-badge&logo=github&logoColor=D0D7DE)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
