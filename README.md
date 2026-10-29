@@ -86,19 +86,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-## 🏆 Highlights
-
-- Ranked 29th among 3,000+ students in a university-level DSA and Graphs assessment
-- Top 10 among 1,000+ participants in a university 45-Day DSA Challenge
-- Selected among 1,800 of 17,000+ teams at HackOn with Amazon (Season 5)
-- Scholar at Amazon ML Summer School 2026
-- Technology Fellow, Harvard WECode 2026 Conference
 
 ## 📊 GitHub Stats
 
